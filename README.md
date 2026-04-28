@@ -18,3 +18,13 @@ or
 for editable installation. In the latter case you need to have `meson-python` and `ninja` installed.
 
 `pip install meson-python ninja`
+
+
+# Contents 
+
+## basic.ipynb 
+- minimal setup with and example of how to reconstruct the size distribution
+## composition.ipynb
+- example of a disk with different evaporating and condesating components
+## gap.ipynb
+-example with static gas disk with a gap added
